@@ -14,7 +14,6 @@ Net2Apps_Internship/
 └── README.md
 ```
 
-> Update the folder names above to match your actual paths inside `Tasks/`.
 
 ---
 
